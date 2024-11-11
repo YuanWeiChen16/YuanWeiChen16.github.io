@@ -31,7 +31,11 @@ bio: My research interests include computer graphic, 3D Mesh and game engine.
 interests:
   - computer graphic
   - game engine
+  - Unreal
+  - Unity
   - 3D Mesh
+  - Blender
+  - Houdini
 
 # Education to show in About widget
 education:
