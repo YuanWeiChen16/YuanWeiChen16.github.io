@@ -35,7 +35,6 @@ interests:
   - Unity
   - 3D Mesh
   - Blender
-  - Houdini
 
 # Education to show in About widget
 education:
